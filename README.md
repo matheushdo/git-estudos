@@ -27,3 +27,7 @@ Estudando branches, commits e merges.
 
 Branches permitem criar linhas paralelas de desenvolvimento.
 
+## GitHub
+
+Meu primeiro repositório remoto usando Git e GitHub.
+
