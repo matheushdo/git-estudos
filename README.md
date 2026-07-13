@@ -17,3 +17,7 @@ Estou aprendendo controle de versão com Git.
 ## Branch de testes
 
 Estou aprendendo branches no Git.
+
+## Git
+
+Estudando branches, commits e merges.
