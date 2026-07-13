@@ -31,3 +31,12 @@ Branches permitem criar linhas paralelas de desenvolvimento.
 
 Meu primeiro repositório remoto usando Git e GitHub.
 
+## Aula 5 - GitHub
+
+Aprendi sobre:
+- git pull
+- git push
+- git clone
+- branches remotas
+- pull requests
+
