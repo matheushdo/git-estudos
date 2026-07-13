@@ -1,0 +1,6 @@
+Comando Git aprendidios:
+
+git init
+git add 
+git commit
+git log
