@@ -18,6 +18,12 @@ Estou aprendendo controle de versão com Git.
 
 Estou aprendendo branches no Git.
 
+
 ## Git
 
 Estudando branches, commits e merges.
+=======
+## Branch
+
+Branches permitem criar linhas paralelas de desenvolvimento.
+
