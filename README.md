@@ -61,3 +61,6 @@ git pull
 ```bash
 git fetch
 ```
+
+## Teste do git diff
+
