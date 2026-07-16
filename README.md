@@ -40,3 +40,24 @@ Aprendi sobre:
 - branches remotas
 - pull requests
 
+## Comandos aprendidos (Aula 6)
+
+### Clonar um repositório
+```bash
+git clone URL_DO_REPOSITORIO
+```
+
+### Verificar repositórios remotos
+```bash
+git remote -v
+```
+
+### Baixar alterações do repositório remoto
+```bash
+git pull
+```
+
+### Buscar alterações sem aplicar
+```bash
+git fetch
+```
